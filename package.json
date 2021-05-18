@@ -1,0 +1,19 @@
+{
+  "name": "behzad",
+  "version": "0.1.0",
+  "description": "Shiny brand new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behoss/behzad.git"
+  },
+  "author": "Behzad Hosseini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behoss/behzad/issues"
+  },
+  "homepage": "https://github.com/behoss/behzad#readme"
+}
